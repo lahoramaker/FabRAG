@@ -1,0 +1,21 @@
+week; session_name; santized_session_name; url
+1; principles and practices, project management; principles_practices_project_management; https://academy.cba.mit.edu/classes/project_management/index.html
+2; computer-aided design; computer_aided_design; https://academy.cba.mit.edu/classes/computer_design/index.html
+3; computer-controlled cutting;computer_controlled_cutting; https://academy.cba.mit.edu/classes/computer_cutting/index.html
+4; electronics production; electronics_production; https://academy.cba.mit.edu/classes/electronics_production/index.html
+5; 3D scanning and printing; 3D_scanning_printing; https://academy.cba.mit.edu/classes/scanning_printing/index.html
+6; computer-controlled machining;computer_controlled_machining; https://academy.cba.mit.edu/classes/computer_machining/index.html
+7; embedded programming; embedded_programming; https://academy.cba.mit.edu/classes/embedded_programming/index.html
+8; electronics design; electronics_design; https://academy.cba.mit.edu/classes/electronics_design/index.html
+9; output devices; output_devices; https://academy.cba.mit.edu/classes/output_devices/index.html
+10; mechanical design; mechanical_design; https://academy.cba.mit.edu/classes/mechanical_design/index.html
+10; machine design; machine_design; https://academy.cba.mit.edu/classes/machine_design/index.html
+11; input devices; input_devices; https://academy.cba.mit.edu/classes/input_devices/index.html
+12; molding and casting; molding_casting; https://academy.cba.mit.edu/classes/molding_casting/index.html
+13; interface and application programming; interface_application_programming; https://academy.cba.mit.edu/classes/interface_application_programming/index.html
+14; networking and communications; networking_communications; https://academy.cba.mit.edu/classes/networking_communications/index.html
+15; wildcard; wildcard; https://academy.cba.mit.edu/classes/wildcard/index.html
+16; system integration; system_integration; https://academy.cba.mit.edu/classes/system_integration/index.html
+17; applications and implications, project development; applications_implications_project_development; https://academy.cba.mit.edu/classes/applications_implications/index.html
+18; invention, intellectual property, and income; invention_intellectual_property_income; https://academy.cba.mit.edu/classes/invention_IP_business/index.html
+19; final_project; final_project; https://academy.cba.mit.edu/classes/project_presentation/index.html

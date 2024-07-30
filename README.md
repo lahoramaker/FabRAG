@@ -21,6 +21,8 @@ Inspired by the Fab 1.0 to 5.0 analogy, the FabRAG project is divided into five 
 
 In this initial phase, we focus on creating a foundational Retrieval-Augmented Generation (RAG) system using the text extracted from selected Fab Academy web pages. This phase establishes the core functionality of information retrieval and response generation along with the distribution mechanism for the system.
 
+This phase is already completed. You can test the instructions and data required to set up the system in the [FabRAG_1 repository](https://github.com/lahoramaker/FabRAG_1).
+
 ### Phase 2: Enhanced Metadata and Attribution
 
 Building on Phase 1, we incorporate additional metadata into our system, including authorship information, content's licensing and source URLs. This enhancement allows for more accurate attribution and enables users to trace information back to its original source.
